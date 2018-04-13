@@ -1,2 +1,3 @@
 # SQLZOO_Solutions
-http://zh.sqlzoo.net/wiki/
+
+My solves for [SQLZOO](http://zh.sqlzoo.net/wiki/) problem sets.
