@@ -44,7 +44,7 @@ Show all details of the presidential winners:
 
 ```sql
 SELECT * FROM nobel
- WHERE winner IN ('Theodore Roosevelt',
+WHERE winner IN ('Theodore Roosevelt',
                   'Woodrow Wilson',
                   'Jimmy Carter',
                   'Barack Obama')
